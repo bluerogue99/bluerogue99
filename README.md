@@ -17,7 +17,7 @@ Feel free to explore my repositories and reach out if you’d like to collaborat
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS, PHP, C#
 - **Frameworks & Libraries:** React, Node.js, Bootstrap, Unity, Unreal Engine
-- **Tools & Platforms:** Git, GitHub, Shopify CLI, WordPress, Webpack
+- **Tools & Platforms:** Git, GitHub, Shopify CLI, WordPress, Webpack, Docker
 - **Databases:** MySQL
 
 ### GitHub Stats
