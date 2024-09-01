@@ -4,7 +4,7 @@ I'm Jozsef Simco, a passionate web developer with a keen interest in modern web 
 
 ### About Me
 
-- 🔭 I’m currently working on a localhost project to practice React and Typescript.
+- 🔭 I just finished a js-basics task. 
 - 🌱 I’m currently vuilding a SAAS where I use AI, Next JS, React. The main idea is for the user to upload a PDF to a platform and have an AI chatbot based on the content of the PDF file. It is coming soon. ;)
 - 👯 I’m looking to collaborate on any professional website you have in mind.
 - 💬 Ask me about WordPress, if you need a custom WordPress theme or just have questions about WP themes and plugins (HTML, CSS, JavaScript, PHP) feel free to contact me.
