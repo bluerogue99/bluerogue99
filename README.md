@@ -2,20 +2,6 @@
 
 I'm Jozsef Simco, a passionate web developer with a keen interest in modern web technologies and best practices. 
 
-### About Me
-
-- 🔭 I just finished a chatbot application that you can check here: https://github.com/bluerogue99/chatbot. 
-- 🌱 I’m currently working on a Real Time Messenger Clone that uses Laravel, React, Tailwind.css. :) 
-
-Feel free to explore my repositories. 
-
-### My Skills
-
-- **Languages:** JavaScript, TypeScript, HTML, CSS, PHP, C#
-- **Frameworks & Libraries:** React, Node.js, Bootstrap, Next.js, Laravel
-- **Tools & Platforms:** Git, GitHub, Shopify CLI, WordPress, Webpack, Docker
-- **Databases:** MySQL, PostgerSQL, SQLite
-
-### GitHub Stats
+- 🔭 I have just finished https://postgenerator.io/ where users can create social media post, preview them, save them for later use or just edit them. It is a PHP Laravel, React, Inertia, Vite, OpenAI, Stripe project. :) I'm sure the code would require more refactoring and clean code practices could be improved for sure. Anyways, give it a try, generate some posts or clone it if you wish. It is public, you can check it, use it for free for your own advantage. The app mostly targets content creators, brands and digital marketers. 
 
 Thank you for visiting my profile!
